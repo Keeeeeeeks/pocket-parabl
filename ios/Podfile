@@ -19,7 +19,7 @@ $RNFirebaseAsStaticFramework = true
 
 ENV['RCT_NEW_ARCH_ENABLED'] = '0'
 
-target 'PocketPal' do
+target 'Pocket-Parabl' do
   config = use_native_modules!
 
   use_react_native!(
@@ -28,7 +28,7 @@ target 'PocketPal' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
-  target 'PocketPalTests' do
+  target 'Pocket-ParablTests' do
     inherit! :complete
     # Pods for testing
   end
