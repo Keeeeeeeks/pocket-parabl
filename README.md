@@ -1,6 +1,10 @@
 # PocketPal AI 📱🚀
 
-PocketPal AI is a pocket-sized AI assistant powered by small language models (SLMs) that run directly on your phone. Designed for both iOS and Android, PocketPal AI lets you interact with various SLMs without the need for an internet connection.
+Parabl AI is a Leapfrog Technology. It consists of:
+1. A Parabl unit (wifi-enabled battery) 
+2.  a pocket-sized AI assistant powered by small language models (SLMs) that run directly on your phone. Designed for both iOS and Android, PocketPal AI lets you interact with various SLMs without the need for an internet connection.
+
+(Internal build - this has been forked from PocketPalAI and not properly scrubbed)
 
 ## Table of Contents
 
