@@ -4,7 +4,7 @@ PocketPal AI is a pocket-sized AI assistant powered by small language models (SL
 
 ## Table of Contents
 
-- [PocketPal AI 📱🚀](#pocketpal-ai-)
+- [Pocket-Parabl AI 📱🚀](#pocketpal-ai-)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Installation](#installation)
